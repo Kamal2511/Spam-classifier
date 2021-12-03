@@ -41,6 +41,6 @@
 <h2>Accuracy Result :</h2>
 <p align='center'><img src='https://user-images.githubusercontent.com/31500911/143232140-06367c4c-ce52-4a70-990a-b2133571f456.jpg'></p>
 <p>Considering overall performance of Precision and Accuracy</p>
-<p><b>Naive Bayes</b> is the best.</p>
+<p>Since NB has the best Accuracy and Precision, <b>Naive Bayes</b> is the model.</p>
 
 
